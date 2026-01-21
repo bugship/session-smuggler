@@ -1,4 +1,4 @@
-module github.com/bugship/legendary-succotash
+module github.com/bugship/session-smuggler
 
 go 1.22
 
